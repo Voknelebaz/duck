@@ -13,8 +13,7 @@ int main()
 	}
 	cout << "";
 	cout << "Numbers with even indexes: ";
-	for (int i = 1; i <= 10; i += 2)
-		cout << a[i] << " ";
+	
 
 	for (int i = 0; i <= 10; i++) {
 
